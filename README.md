@@ -1,2 +1,2 @@
 # WithinBox
-Vue.js app
+Just an app for your stuff
